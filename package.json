@@ -1,0 +1,57 @@
+{
+  "name": "ultimate-crypto-portfolio",
+  "description": "Ultimately an essential - powerful - easy to use - crypto portfolio sheet",
+  "version": "1.0.0",
+  "keywords": [
+    "crypto-portfolio-sheet",
+    "cryptocurrency",
+    "currency",
+    "essential",
+    "spreadsheet",
+    "sheets",
+    "google-sheets",
+    "crypto",
+    "investing",
+    "portfolio",
+    "sheet",
+    "easy",
+    "template",
+    "copy",
+    "trading",
+    "ticker",
+    "currency",
+    "exchange",
+    "sort",
+    "transactions",
+    "tooltips",
+    "tracking",
+    "tracker",
+    "coin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/srMarquinho/ultimate-crypto-portfolio"
+  },
+  "author": {
+    "name": "Marco Araujo",
+    "email": "sr.marquinho@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/srMarquinho/ultimate-crypto-portfolio/issues"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "license": "MIT",
+  "scripts": {
+    "build": "grunt"
+  },
+  "files": [
+    "src"
+  ],
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify-es": "^3.3.0"
+  }
+}
