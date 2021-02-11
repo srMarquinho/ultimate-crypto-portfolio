@@ -1,7 +1,7 @@
 # Ultimate Crypto Portfolio Spreadsheet
 :moneybag: Ultimately an essential - powerful  - easy to use - crypto portfolio sheet. :moneybag:
 
-Following the success of [Ultimate Dividend Portfolio Spreadsheet](https://github.com/srMarquinho/ultimate-dividend-portfolio), I've received many requests for a cryptocurrency version. So there you go!
+Following the success of [Ultimate Dividend Portfolio Spreadsheet](https://srmarquinho.github.io/ultimate-dividend-portfolio/), I've received many requests for a cryptocurrency version. So there you go!
 
 ## :beginner: Features
 
